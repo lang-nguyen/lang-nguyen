@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lang Nguyen</h1>
-<h3 align="center">Hi!!!!!!! Call me Lucy – an IT student passionate about AI and Machine Learning. I’ve explored real-world projects with Python, TensorFlow, and NLP, and I’m excited to find an AI internship to learn, grow and contribute to meaningful solutions ^^</h3>
+<h4 align="center">Hi!!!!!!! Call me Lucy – an IT student passionate about AI and Machine Learning. I’ve explored real-world projects with Python, TensorFlow, and NLP, and I’m excited to find an AI internship to learn, grow and contribute to meaningful solutions ^^</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lang-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="lang-nguyen" /> </p>
 
